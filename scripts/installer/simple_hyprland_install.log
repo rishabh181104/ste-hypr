@@ -1,0 +1,234 @@
+Monday 16 September 2024 08:56:26 PM IST: Installation started
+Monday 16 September 2024 08:56:26 PM IST: Original user is ste
+Monday 16 September 2024 08:56:29 PM IST: Operation accepted by user.
+Monday 16 September 2024 08:56:33 PM IST: Operation accepted by user.
+Monday 16 September 2024 08:56:33 PM IST: Installation started for prerequisites section
+Monday 16 September 2024 08:56:33 PM IST: Attempting to run: Update package database and upgrade packages (Recommended)
+Monday 16 September 2024 08:56:38 PM IST: Operation accepted by user.
+Monday 16 September 2024 08:56:44 PM IST: Update package database and upgrade packages (Recommended) completed successfully.
+Monday 16 September 2024 08:56:44 PM IST: Attempting to run: Install YAY (Must)/Breaks the script
+Monday 16 September 2024 08:56:48 PM IST: Operation accepted by user.
+Monday 16 September 2024 08:56:48 PM IST: Install YAY (Must)/Breaks the script completed successfully.
+Monday 16 September 2024 08:56:48 PM IST: Attempting to run: Clone YAY (Must)/Breaks the script
+Monday 16 September 2024 08:56:52 PM IST: Clone YAY (Must)/Breaks the script completed successfully.
+Monday 16 September 2024 08:56:52 PM IST: Attempting to run: Build YAY (Must)/Breaks the script
+Monday 16 September 2024 08:57:58 PM IST: Build YAY (Must)/Breaks the script completed successfully.
+Monday 16 September 2024 08:57:59 PM IST: Attempting to run: Configuring audio (Recommended)
+Monday 16 September 2024 08:58:05 PM IST: Operation accepted by user.
+Monday 16 September 2024 08:58:13 PM IST: Configuring audio (Recommended) completed successfully.
+Monday 16 September 2024 08:58:13 PM IST: Attempting to run: Installing Nerd Fonts and Symbols (Recommended)
+Monday 16 September 2024 08:58:17 PM IST: Operation accepted by user.
+Monday 16 September 2024 08:59:33 PM IST: Installing Nerd Fonts and Symbols (Recommended) completed successfully.
+Monday 16 September 2024 08:59:33 PM IST: Attempting to run: Install and enable SDDM (Recommended)
+Monday 16 September 2024 08:59:38 PM IST: Operation accepted by user.
+Monday 16 September 2024 08:59:46 PM IST: Command failed: pacman -S --noconfirm sddm && systemctl enable sddm.service
+Monday 16 September 2024 09:00:38 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:00:44 PM IST: Install and enable SDDM (Recommended) completed successfully.
+Monday 16 September 2024 09:00:44 PM IST: Attempting to run: Install Brave Browser
+Monday 16 September 2024 09:00:47 PM IST: Operation cancelled by user.
+Monday 16 September 2024 09:00:47 PM IST: Install Brave Browser was skipped by user choice.
+Monday 16 September 2024 09:00:47 PM IST: Attempting to run: Install Kitty (Recommended)
+Monday 16 September 2024 09:00:55 PM IST: Operation cancelled by user.
+Monday 16 September 2024 09:00:55 PM IST: Install Kitty (Recommended) was skipped by user choice.
+Monday 16 September 2024 09:00:55 PM IST: Attempting to run: Install nano
+Monday 16 September 2024 09:00:59 PM IST: Operation cancelled by user.
+Monday 16 September 2024 09:00:59 PM IST: Install nano was skipped by user choice.
+Monday 16 September 2024 09:00:59 PM IST: Attempting to run: Install tar for extracting files (Must)/needed for copying themes
+Monday 16 September 2024 09:01:02 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:01:10 PM IST: Install tar for extracting files (Must)/needed for copying themes completed successfully.
+Monday 16 September 2024 09:01:17 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:01:17 PM IST: Installation started for hypr section
+Monday 16 September 2024 09:01:17 PM IST: Attempting to run: Install Hyprland (Must)
+Monday 16 September 2024 09:01:23 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:02:27 PM IST: Install Hyprland (Must) completed successfully.
+Monday 16 September 2024 09:02:27 PM IST: Attempting to run: Copy hyprland config (Must)
+Monday 16 September 2024 09:02:30 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:02:30 PM IST: Command failed: mkdir -p /home/ste/.config/hypr/ && cp -r /home/ste/simple-hyprland/configs/hypr/hyprland.conf /home/ste/.config/hypr/
+Monday 16 September 2024 09:02:38 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:02:38 PM IST: Command failed: mkdir -p /home/ste/.config/hypr/ && cp -r /home/ste/simple-hyprland/configs/hypr/hyprland.conf /home/ste/.config/hypr/
+Monday 16 September 2024 09:02:54 PM IST: Script interrupted and exited
+Monday 16 September 2024 09:03:35 PM IST: Installation started
+Monday 16 September 2024 09:03:35 PM IST: Original user is ste
+Monday 16 September 2024 09:03:37 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:03:39 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:03:39 PM IST: Installation started for prerequisites section
+Monday 16 September 2024 09:03:39 PM IST: Attempting to run: Update package database and upgrade packages (Recommended)
+Monday 16 September 2024 09:03:43 PM IST: Operation cancelled by user.
+Monday 16 September 2024 09:03:43 PM IST: Update package database and upgrade packages (Recommended) was skipped by user choice.
+Monday 16 September 2024 09:03:43 PM IST: Attempting to run: Install YAY (Must)/Breaks the script
+Monday 16 September 2024 09:03:44 PM IST: Operation cancelled by user.
+Monday 16 September 2024 09:03:44 PM IST: Install YAY (Must)/Breaks the script was skipped by user choice.
+Monday 16 September 2024 09:03:44 PM IST: Attempting to run: Configuring audio (Recommended)
+Monday 16 September 2024 09:03:44 PM IST: Operation cancelled by user.
+Monday 16 September 2024 09:03:44 PM IST: Configuring audio (Recommended) was skipped by user choice.
+Monday 16 September 2024 09:03:44 PM IST: Attempting to run: Installing Nerd Fonts and Symbols (Recommended)
+Monday 16 September 2024 09:03:44 PM IST: Operation cancelled by user.
+Monday 16 September 2024 09:03:44 PM IST: Installing Nerd Fonts and Symbols (Recommended) was skipped by user choice.
+Monday 16 September 2024 09:03:44 PM IST: Attempting to run: Install and enable SDDM (Recommended)
+Monday 16 September 2024 09:03:47 PM IST: Operation cancelled by user.
+Monday 16 September 2024 09:03:47 PM IST: Install and enable SDDM (Recommended) was skipped by user choice.
+Monday 16 September 2024 09:03:47 PM IST: Attempting to run: Install Brave Browser
+Monday 16 September 2024 09:03:49 PM IST: Operation cancelled by user.
+Monday 16 September 2024 09:03:49 PM IST: Install Brave Browser was skipped by user choice.
+Monday 16 September 2024 09:03:49 PM IST: Attempting to run: Install Kitty (Recommended)
+Monday 16 September 2024 09:03:50 PM IST: Operation cancelled by user.
+Monday 16 September 2024 09:03:50 PM IST: Install Kitty (Recommended) was skipped by user choice.
+Monday 16 September 2024 09:03:50 PM IST: Attempting to run: Install nano
+Monday 16 September 2024 09:03:51 PM IST: Operation cancelled by user.
+Monday 16 September 2024 09:03:51 PM IST: Install nano was skipped by user choice.
+Monday 16 September 2024 09:03:51 PM IST: Attempting to run: Install tar for extracting files (Must)/needed for copying themes
+Monday 16 September 2024 09:03:52 PM IST: Operation cancelled by user.
+Monday 16 September 2024 09:03:52 PM IST: Install tar for extracting files (Must)/needed for copying themes was skipped by user choice.
+Monday 16 September 2024 09:03:58 PM IST: Operation cancelled by user.
+Monday 16 September 2024 09:04:02 PM IST: Script interrupted and exited
+Monday 16 September 2024 09:04:06 PM IST: Installation started
+Monday 16 September 2024 09:04:06 PM IST: Original user is ste
+Monday 16 September 2024 09:04:09 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:04:09 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:04:09 PM IST: Installation started for prerequisites section
+Monday 16 September 2024 09:04:09 PM IST: Attempting to run: Update package database and upgrade packages (Recommended)
+Monday 16 September 2024 09:04:11 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:04:17 PM IST: Update package database and upgrade packages (Recommended) completed successfully.
+Monday 16 September 2024 09:04:17 PM IST: Attempting to run: Install YAY (Must)/Breaks the script
+Monday 16 September 2024 09:04:20 PM IST: Operation cancelled by user.
+Monday 16 September 2024 09:04:20 PM IST: Install YAY (Must)/Breaks the script was skipped by user choice.
+Monday 16 September 2024 09:04:20 PM IST: Attempting to run: Configuring audio (Recommended)
+Monday 16 September 2024 09:04:28 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:04:33 PM IST: Configuring audio (Recommended) completed successfully.
+Monday 16 September 2024 09:04:33 PM IST: Attempting to run: Installing Nerd Fonts and Symbols (Recommended)
+Monday 16 September 2024 09:04:36 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:04:45 PM IST: Installing Nerd Fonts and Symbols (Recommended) completed successfully.
+Monday 16 September 2024 09:04:45 PM IST: Attempting to run: Install and enable SDDM (Recommended)
+Monday 16 September 2024 09:04:47 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:04:56 PM IST: Install and enable SDDM (Recommended) completed successfully.
+Monday 16 September 2024 09:04:56 PM IST: Attempting to run: Install Brave Browser
+Monday 16 September 2024 09:04:57 PM IST: Operation cancelled by user.
+Monday 16 September 2024 09:04:57 PM IST: Install Brave Browser was skipped by user choice.
+Monday 16 September 2024 09:04:57 PM IST: Attempting to run: Install Kitty (Recommended)
+Monday 16 September 2024 09:04:59 PM IST: Operation cancelled by user.
+Monday 16 September 2024 09:04:59 PM IST: Install Kitty (Recommended) was skipped by user choice.
+Monday 16 September 2024 09:04:59 PM IST: Attempting to run: Install nano
+Monday 16 September 2024 09:05:00 PM IST: Operation cancelled by user.
+Monday 16 September 2024 09:05:00 PM IST: Install nano was skipped by user choice.
+Monday 16 September 2024 09:05:00 PM IST: Attempting to run: Install tar for extracting files (Must)/needed for copying themes
+Monday 16 September 2024 09:05:02 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:05:06 PM IST: Install tar for extracting files (Must)/needed for copying themes completed successfully.
+Monday 16 September 2024 09:05:08 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:05:08 PM IST: Installation started for hypr section
+Monday 16 September 2024 09:05:08 PM IST: Attempting to run: Install Hyprland (Must)
+Monday 16 September 2024 09:05:10 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:05:14 PM IST: Install Hyprland (Must) completed successfully.
+Monday 16 September 2024 09:05:14 PM IST: Attempting to run: Copy hyprland config (Must)
+Monday 16 September 2024 09:05:16 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:05:16 PM IST: Command failed: mkdir -p /home/ste/.config/hypr/ && cp -r /home/ste/simple-hyprland/configs/hypr/hyprland.conf /home/ste/.config/hypr/
+Monday 16 September 2024 09:05:33 PM IST: Script interrupted and exited
+Monday 16 September 2024 09:12:08 PM IST: Installation started
+Monday 16 September 2024 09:12:08 PM IST: Original user is ste
+Monday 16 September 2024 09:12:11 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:12:13 PM IST: Operation cancelled by user.
+Monday 16 September 2024 09:12:15 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:12:15 PM IST: Installation started for hypr section
+Monday 16 September 2024 09:12:15 PM IST: Attempting to run: Install Hyprland (Must)
+Monday 16 September 2024 09:12:16 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:12:20 PM IST: Install Hyprland (Must) completed successfully.
+Monday 16 September 2024 09:12:20 PM IST: Attempting to run: Copy hyprland config (Must)
+Monday 16 September 2024 09:12:22 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:12:22 PM IST: Command failed: mkdir -p /home/ste/.config/hypr/ && cp -r /home/ste/simple-hyprland/configs/hypr/hyprland.conf /home/ste/.config/hypr/
+Monday 16 September 2024 09:12:40 PM IST: Script interrupted and exited
+Monday 16 September 2024 09:13:27 PM IST: Installation started
+Monday 16 September 2024 09:13:27 PM IST: Original user is ste
+Monday 16 September 2024 09:13:28 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:13:28 PM IST: Operation cancelled by user.
+Monday 16 September 2024 09:13:29 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:13:29 PM IST: Installation started for hypr section
+Monday 16 September 2024 09:13:29 PM IST: Attempting to run: Install Hyprland (Must)
+Monday 16 September 2024 09:13:30 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:13:34 PM IST: Install Hyprland (Must) completed successfully.
+Monday 16 September 2024 09:13:34 PM IST: Attempting to run: Copy hyprland config (Must)
+Monday 16 September 2024 09:13:35 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:13:35 PM IST: Copy hyprland config (Must) completed successfully.
+Monday 16 September 2024 09:13:35 PM IST: Attempting to run: Install XDG desktop portal for Hyprland
+Monday 16 September 2024 09:13:38 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:13:41 PM IST: Install XDG desktop portal for Hyprland completed successfully.
+Monday 16 September 2024 09:13:41 PM IST: Attempting to run: Install KDE Polkit agent for authentication dialogs
+Monday 16 September 2024 09:13:44 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:13:51 PM IST: Install KDE Polkit agent for authentication dialogs completed successfully.
+Monday 16 September 2024 09:13:51 PM IST: Attempting to run: Install Dunst notification daemon
+Monday 16 September 2024 09:13:52 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:13:54 PM IST: Install Dunst notification daemon completed successfully.
+Monday 16 September 2024 09:13:54 PM IST: Attempting to run: Copy dunst config
+Monday 16 September 2024 09:13:55 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:13:55 PM IST: Copy dunst config completed successfully.
+Monday 16 September 2024 09:13:55 PM IST: Attempting to run: Install QT support on wayland
+Monday 16 September 2024 09:13:56 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:14:04 PM IST: Install QT support on wayland completed successfully.
+Monday 16 September 2024 09:14:08 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:14:08 PM IST: Installation started for utilities section
+Monday 16 September 2024 09:14:08 PM IST: Attempting to run: Install Waybar - Status Bar
+Monday 16 September 2024 09:14:09 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:14:16 PM IST: Install Waybar - Status Bar completed successfully.
+Monday 16 September 2024 09:14:16 PM IST: Attempting to run: Copy Waybar config
+Monday 16 September 2024 09:14:18 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:14:19 PM IST: Copy Waybar config completed successfully.
+Monday 16 September 2024 09:14:19 PM IST: Attempting to run: Install Tofi - Application Launcher
+Monday 16 September 2024 09:14:20 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:14:44 PM IST: Install Tofi - Application Launcher completed successfully.
+Monday 16 September 2024 09:14:44 PM IST: Attempting to run: Copy Tofi config(s)
+Monday 16 September 2024 09:14:58 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:14:58 PM IST: Copy Tofi config(s) completed successfully.
+Monday 16 September 2024 09:14:58 PM IST: Attempting to run: Install Cliphist - Clipboard Manager
+Monday 16 September 2024 09:14:59 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:15:07 PM IST: Install Cliphist - Clipboard Manager completed successfully.
+Monday 16 September 2024 09:15:07 PM IST: Attempting to run: Install SWWW for wallpaper management
+Monday 16 September 2024 09:15:09 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:15:16 PM IST: Install SWWW for wallpaper management completed successfully.
+Monday 16 September 2024 09:15:16 PM IST: Attempting to run: Copy sample wallpapers to assets directory (Recommended)
+Monday 16 September 2024 09:15:38 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:15:38 PM IST: Copy sample wallpapers to assets directory (Recommended) completed successfully.
+Monday 16 September 2024 09:15:38 PM IST: Attempting to run: Install Hyprpicker - Color Picker
+Monday 16 September 2024 09:15:42 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:16:15 PM IST: Install Hyprpicker - Color Picker completed successfully.
+Monday 16 September 2024 09:16:15 PM IST: Attempting to run: Install Hyprlock - Screen Locker (Must)
+Monday 16 September 2024 09:16:19 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:16:25 PM IST: Install Hyprlock - Screen Locker (Must) completed successfully.
+Monday 16 September 2024 09:16:25 PM IST: Attempting to run: Copy Hyprlock config
+Monday 16 September 2024 09:16:27 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:16:27 PM IST: Copy Hyprlock config completed successfully.
+Monday 16 September 2024 09:16:27 PM IST: Attempting to run: Install Wlogout - Session Manager
+Monday 16 September 2024 09:16:28 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:16:57 PM IST: Install Wlogout - Session Manager completed successfully.
+Monday 16 September 2024 09:16:57 PM IST: Attempting to run: Copy Wlogout config and assets
+Monday 16 September 2024 09:16:59 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:16:59 PM IST: Copy Wlogout config and assets completed successfully.
+Monday 16 September 2024 09:16:59 PM IST: Attempting to run: Install Grimblast - Screenshot tool
+Monday 16 September 2024 09:17:01 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:17:13 PM IST: Install Grimblast - Screenshot tool completed successfully.
+Monday 16 September 2024 09:17:13 PM IST: Attempting to run: Install Hypridle for idle management (Must)
+Monday 16 September 2024 09:17:16 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:17:22 PM IST: Install Hypridle for idle management (Must) completed successfully.
+Monday 16 September 2024 09:17:22 PM IST: Attempting to run: Copy Hypridle config
+Monday 16 September 2024 09:17:23 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:17:23 PM IST: Copy Hypridle config completed successfully.
+Monday 16 September 2024 09:17:25 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:17:25 PM IST: Installation started for theming section
+Monday 16 September 2024 09:17:25 PM IST: Attempting to run: Install nwg-look for GTK theme management
+Monday 16 September 2024 09:17:26 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:17:30 PM IST: Install nwg-look for GTK theme management completed successfully.
+Monday 16 September 2024 09:17:30 PM IST: Attempting to run: Install Qt5, Qt6 Settings, and Kvantum theme engines
+Monday 16 September 2024 09:17:34 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:17:42 PM IST: Install Qt5, Qt6 Settings, and Kvantum theme engines completed successfully.
+Monday 16 September 2024 09:17:42 PM IST: Attempting to run: Install Catppuccin Mocha GTK theme
+Monday 16 September 2024 09:17:45 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:17:45 PM IST: Install Catppuccin Mocha GTK theme completed successfully.
+Monday 16 September 2024 09:17:45 PM IST: Attempting to run: Install Tela Circle Dracula icon theme
+Monday 16 September 2024 09:17:47 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:17:48 PM IST: Install Tela Circle Dracula icon theme completed successfully.
+Monday 16 September 2024 09:17:48 PM IST: Attempting to run: Install Catppuccin theme for Kvantum
+Monday 16 September 2024 09:17:49 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:18:04 PM IST: Install Catppuccin theme for Kvantum completed successfully.
+Monday 16 September 2024 09:18:04 PM IST: Attempting to run: Copy Catppuccin theme configuration for Kitty terminal
+Monday 16 September 2024 09:18:09 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:18:09 PM IST: Copy Catppuccin theme configuration for Kitty terminal completed successfully.
+Monday 16 September 2024 09:18:11 PM IST: Operation accepted by user.
+Monday 16 September 2024 09:18:11 PM IST: Final setup script started
+Monday 16 September 2024 09:18:11 PM IST: Installation completed successfully
