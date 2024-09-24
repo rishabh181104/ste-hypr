@@ -7,7 +7,7 @@
     // Choose the order of the modules
     "modules-left": ["hyprland/workspaces", "hyprland/window"],
     //"modules-center": ["hyprland/window"],
-    "modules-right": ["custom/swaync", "custom/menu", "tray", "pulseaudio", "cpu", "memory", "backlight", "battery", "battery#bat2", "custom/scripted_clock", "custom/powermenu"],
+    "modules-right": ["custom/swaync", "custom/menu", "tray", "pulseaudio", "cpu", "memory", "custom/power-profile", "backlight", "battery", "battery#bat2", "custom/scripted_clock", "custom/powermenu"],
     // Modules configuration
     "custom/powermenu": {
 	"format": " ",
@@ -117,6 +117,12 @@
         "format": "{temperatureC}°C {icon}",
         "format-icons": ["", "", ""]
     },
+    "custom/power-profile": {
+        "format": "{}",
+        "exec": "~/.config/hypr/waybar/scripts/power_profile.sh",
+        "interval": 10,
+        "on-click": "~/.config/hypr/waybar/scripts/power_profile_toggle.sh"  // Optional: Script to toggle profiles on click
+    },
     "backlight": {
         // "device": "acpi_video1",
         "format": "{percent}% {icon}",
@@ -183,4 +189,3 @@
         // "exec": "$HOME/.config/waybar/mediaplayer.py --player spotify 2> /dev/null" // Filter player based on name
     }
 }
-
