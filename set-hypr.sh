@@ -46,9 +46,9 @@ if [[ $inst =~ ^[Nn]$ ]]; then
 
 if [[ $inst =~ ^[Yy]$ ]]; then
    git_pkgs="grimblast-git hyprpicker-git aylurs-gtk-shell"
-   hypr_pkgs="hyprland wl-clipboard wf-recorder rofi sddm wlogout dunst swww alacritty hyprcursor hyprlang noto-fonts noto-fonts-emoji"
-   app_pkgs="nwg-look qt5ct btop jq gvfs ffmpegthumbs mpv playerctl pamixer noise-suppression-for-voice"
-   app_pkgs2="neovim pavucontrol xdg-user-dirs"
+   hypr_pkgs="hyprland wl-clipboard wf-recorder rofi sddm wlogout dunst swaybg kitty alacritty hyprcursor hyprlang noto-fonts noto-fonts-emoji"
+   app_pkgs="nwg-look jq gvfs mpv playerctl pamixer noise-suppression-for-voice"
+   app_pkgs2="neovim xdg-user-dirs"
    theme_pkgs="nordic-theme papirus-icon-theme starship"
 
     # Check for yay or paru
