@@ -47,7 +47,7 @@ if [[ $inst =~ ^[Nn]$ ]]; then
 if [[ $inst =~ ^[Yy]$ ]]; then
    git_pkgs="grimblast-git hyprpicker-git aylurs-gtk-shell"
    hypr_pkgs="hyprland wl-clipboard wf-recorder rofi sddm wlogout dunst swaybg kitty alacritty hyprcursor hyprlang noto-fonts noto-fonts-emoji"
-   app_pkgs="nwg-look jq gvfs mpv playerctl pamixer noise-suppression-for-voice"
+   app_pkgs="nwg-look jq gvfs mpv playerctl pamixer noise-suppression-for-voice networkmanager network-manager-applet"
    app_pkgs2="neovim xdg-user-dirs brightnessctl thunar power-profiles-daemon waybar"
    theme_pkgs="nordic-theme papirus-icon-theme starship"
 
