@@ -49,7 +49,7 @@ if [[ $inst =~ ^[Yy]$ ]]; then
    hypr_pkgs="hyprland wl-clipboard wf-recorder rofi sddm wlogout dunst swaybg kitty alacritty hyprcursor hyprlang noto-fonts noto-fonts-emoji"
    app_pkgs="nwg-look jq gvfs mpv playerctl pamixer noise-suppression-for-voice networkmanager network-manager-applet"
    app_pkgs2="neovim xdg-user-dirs brightnessctl thunar power-profiles-daemon waybar"
-   theme_pkgs="nordic-theme papirus-icon-theme starship"
+   theme_pkgs="nordic-theme papirus-icon-theme ttf-font-awesome starship"
 
     # Check for yay or paru
     if command -v yay &> /dev/null; then
